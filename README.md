@@ -1,6 +1,6 @@
 # Resumize - AI-Powered Resume & Cover Letter Optimizer
 
-![Resumize Logo](public/resumize-logo.svg)
+![Resumize Logo](public/resumize-logo.png)
 
 ## Overview
 
@@ -108,14 +108,3 @@ Job seekers face three critical challenges that Resumize addresses:
 
 Our platform provides an efficient solution to these problems, helping users create professional, tailored application materials that get noticed.
 
-## Contributing
-
-We welcome contributions to Resumize! Please see our [Contributing Guidelines](CONTRIBUTING.md) for more information.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For questions or support, please contact us at team@resumize.com or visit [www.resumize.com](https://www.resumize.com).
